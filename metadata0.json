@@ -1,0 +1,27 @@
+{
+	"name":"🌓 PsychedeliA #0 🌗",
+	"creator":"PsychedeliA",
+	"description":"There's something worthy inside.",
+	"image":"https://raw.githubusercontent.com/coinz-maker/amero/refs/heads/master/0.png",
+	"type":"image/png",
+	"format":"opensea",
+	"attributes":
+	[
+		{
+			"trait_type":"Origin",
+			"value":"Based"
+		},
+		{
+			"trait_type":"Color",
+			"value":"Custom"
+		},
+		{
+			"trait_type":"Pattern",
+			"value":"Owl Claws Mark"
+		},
+		{
+			"trait_type":"Is Custom?",
+			"value":"Yes"
+		}
+	]
+}
